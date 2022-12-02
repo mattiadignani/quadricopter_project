@@ -1,2 +1,2 @@
 # quadricopter_project
-Project for Modelling and Controlling of leectric Drives,
+Project for Modelling and Controlling of ELectric Drives,
